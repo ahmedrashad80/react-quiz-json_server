@@ -1,0 +1,10 @@
+{
+  "name": "json-server-project",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "json-server --watch data/questions.json --port 9000"
+  },
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
